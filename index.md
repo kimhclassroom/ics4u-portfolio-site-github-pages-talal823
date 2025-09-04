@@ -6,6 +6,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 🧠 Concept I learned: *(short note)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
+  [Reflection #2](./posts/first_reflection2.md)
+
 ## About me
 
 
