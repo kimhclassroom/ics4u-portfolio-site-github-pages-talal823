@@ -7,7 +7,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-18 year old from Pakistan.
+
 
 ---
 *Update this page by editing `index.md` in your repository.*
